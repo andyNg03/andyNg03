@@ -35,9 +35,6 @@ Computer Science student at **Northeastern University**, concentrating in AI. I 
 **Wacow((https://github.com/andyNg03/Wacow)** - A cross-platform fitness tracking app built with React Native (Expo) and Supabase. Designed to help users log workouts, track progress, and build consistency through gamification.
 `Javascript` · `SQL` · `React Native` · `Supabase`
 
-**Sokoban(Access Upon Request)** - 2-D crate-pushing game. Assets rendered via SFML Library and tested via Boost 
-`C++` · `SFML` · `Boost`
-
 ## Contact
 
 - **Email:** nguyen.linha@northeastern.edu
