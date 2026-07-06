@@ -32,7 +32,7 @@ Computer Science student at **Northeastern University**, concentrating in AI. I 
 **[DiHand](https://github.com/andyNg03/DiHand)** — Draw diagrams with hand gestures over a webcam. Real-time hand tracking with MediaPipe, rendered in Pygame.
 `Python` · `MediaPipe` · `OpenCV` · `Pygame`
 
-**Wacow((https://github.com/andyNg03/Wacow)** - A cross-platform fitness tracking app built with React Native (Expo) and Supabase. Designed to help users log workouts, track progress, and build consistency through gamification.
+**Wacow(https://github.com/andyNg03/Wacow)** - A cross-platform fitness tracking app built with React Native (Expo) and Supabase. Designed to help users log workouts, track progress, and build consistency through gamification.
 `Javascript` · `SQL` · `React Native` · `Supabase`
 
 ## Contact
