@@ -1,11 +1,8 @@
 # Andy Nguyen
 
-Computer Science student at **Northeastern University**, concentrating in AI. I build small, complete projects — and I like working closely with AI tools while I do it.
-
 **Open to a January 2027 co-op**
 
 ## Currently learning
-
 
 ## Tech stack
 
