@@ -3,6 +3,7 @@
 **Open to a January 2027 co-op**
 
 ## Currently learning
+Neural Networks! 🧠 
 
 ## Tech stack
 
